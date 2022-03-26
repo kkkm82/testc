@@ -10,8 +10,8 @@ main () {
 		sum = sum + (i+6.0)/ (hap+k);
 		
 	printf("sum = %f\n", sum);
-	printf("iÀÇ ÃÖÁ¾ °ª = %d\n", i); 
-	printf("kÀÇ ÃÖÁ¾ °ª = %d\n", k); 
+	printf("iì˜ ìµœì¢… ê°’ = %d\n", i); 
+	printf("kì˜ ìµœì¢… ê°’ = %d\n", k); 
 		
 		 
 	
